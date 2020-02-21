@@ -10,6 +10,7 @@
 <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="<%=request.getContextPath() %>/css/member/main.css">
 <script src="https://kit.fontawesome.com/226b55f414.js" crossorigin="anonymous"></script>
+<!--ddasdfjjkashdfjkhasdfhjksdfjkhkj -->
 <style>
 .main_img{
     height: 980px;
