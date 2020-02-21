@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.title{
+    /* border: 1px solid red; */
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 320px;
+}
+.title h1{
+    font-size: 90px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.title p{
+    font-size: 20px;
+    color: white;
+    line-height: 1.5;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 300;
+}
+.title_wrap{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 85px;
+}
+.title_wrap h2{
+    font-size: 30px;
+    color: #3b3b3b;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.title_wrap p{
+    font-size: 16px;
+    color: #3b3b3b;
+    text-align: center;
+}
+form{
+    /* border: 1px solid red; */
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 85px;
+    margin-bottom: 85px;
+}
+.red_circle{
+    width: 20px;
+    height: 20px;
+    background-color: #ed4747;
+    border-radius: 20px;
+    float: left;
+    /* border: 1px solid green; */
+    margin-right: 20px;
+    margin-top: 8px;
+}
+
+#notice_title_wrap h2{
+    float: left;
+    margin-right: 50px;
+    font-size: 20px;
+    margin-top: 3px;
+}
+#notice_title_wrap input{
+    width: 865px;
+    height: 33px;
+    background-color: #ebebeb;
+    font-size: 20px;
+    opacity: .6;
+    margin-top: 5px;
+}
+#notice_title_wrap{
+    padding-bottom: 30px;
+}
+#notice_content_wrap h2{
+    float: left;
+    margin-right: 50px;
+    font-size: 20px;
+    margin-top: 3px;
+}
+#notice_content_wrap textarea{
+    width: 865px;
+    height: 300px;
+    background-color: #ebebeb;
+    font-size: 20px;
+    opacity: .6;
+    margin-top: 5px;
+}
+#notice_content_wrap{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#tbl_notice_write td{
+    border-bottom: 1px solid #ebebeb;
+}
+.btn_wrap{
+    width: 170px;
+    margin: 0 auto;
+}
+#btn_write_submit{
+    width: 170px;
+    height: 40px;
+    background-color: #ed4747;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
